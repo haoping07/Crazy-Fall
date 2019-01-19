@@ -6,7 +6,7 @@ A 2D jumping web game using Phaser game framework
 <img src="example01.png" width="600px" height="429px"></img>
 
 ## Game Detail Description
-Go down the stairs as fast as you can. The stair have four types, landing on normal / bouncing / fake / fast stair get you 10 / 10 / 50 / 100 points.
+Go down the stairs as many as you can. The stair have four types, landing on normal / bouncing / fake / fast stair gets you 10 / 10 / 50 / 100 points.
 
 ## Control
  - Left Arrow: Go left
